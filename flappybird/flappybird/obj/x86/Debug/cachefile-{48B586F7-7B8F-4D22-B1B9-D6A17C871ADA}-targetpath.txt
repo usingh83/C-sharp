@@ -1,0 +1,14 @@
+Content\Textures\Background.xnb
+Content\Textures\Bird-1.xnb
+Content\Textures\Bird-2.xnb
+Content\Textures\Bird-3.xnb
+Content\Textures\pipe.xnb
+Content\Textures\scroll.xnb
+Content\Textures\pixel.xnb
+Content\Textures\sand.xnb
+Content\font\font.xnb
+Content\Textures\Gameover.xnb
+Content\Textures\Start-1.xnb
+Content\Textures\Start-2.xnb
+Content\Textures\Start-3.xnb
+Content\Textures\Start-4.xnb
